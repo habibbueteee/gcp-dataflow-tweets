@@ -20,7 +20,7 @@ Feel free to customize the project according to your requirements and refer to t
 
 ## Output BigQuery Table
 
-![alt text](https://github.com/habibbueteee/gcp-dataflow-tweets/blob/main/images/Dataflow.png](https://github.com/habibbueteee/gcp-dataflow-tweets/blob/main/images/BQ.png)
+![alt text](https://github.com/habibbueteee/gcp-dataflow-tweets/blob/main/images/BQ.png)
 
 ## Prerequisites
 1. Python 3.x installed on your machine.
