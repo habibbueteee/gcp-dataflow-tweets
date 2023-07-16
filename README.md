@@ -18,6 +18,10 @@ Feel free to customize the project according to your requirements and refer to t
 
 ![alt text](https://github.com/habibbueteee/gcp-dataflow-tweets/blob/main/images/Dataflow.png)
 
+## Output BigQuery Table
+
+![alt text](https://github.com/habibbueteee/gcp-dataflow-tweets/blob/main/images/Dataflow.png](https://github.com/habibbueteee/gcp-dataflow-tweets/blob/main/images/BQ.png)
+
 ## Prerequisites
 1. Python 3.x installed on your machine.
 2. Google Cloud Platform (GCP) account with necessary permissions to access Pub/Sub and BigQuery services.
