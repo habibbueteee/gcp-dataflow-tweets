@@ -9,10 +9,23 @@ This project involves creating a data pipeline using Apache Beam to generate fak
 3. Virtual Python environment set up (optional but recommended).
 
 ### Step 1: Installation
-1. Clone the project repository from GitHub:
+Clone the project repository from GitHub:
 
 ```sh
 git clone <repository_url>
-
 ```
-3. Navigate to the project directory
+Navigate to the project directory
+```sh
+cd <project_directory>
+```
+Activate the virtual Python environment (if applicable):
+
+```sh
+source <path_to_virtual_env>/bin/activate
+```
+
+Install the required Python packages:
+
+```sh
+pip install -r requirements.txt
+```
