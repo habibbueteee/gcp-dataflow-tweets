@@ -14,6 +14,9 @@ The pipeline consists of the following steps:
 
 Feel free to customize the project according to your requirements and refer to the detailed instructions in the previous sections for more information.
 
+## Pipeline in Data Flow
+
+![alt text](https://github.com/habibbueteee/gcp-dataflow-tweets/blob/main/images/Dataflow.png)
 
 ## Prerequisites
 1. Python 3.x installed on your machine.
