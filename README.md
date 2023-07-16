@@ -10,5 +10,9 @@ This project involves creating a data pipeline using Apache Beam to generate fak
 
 ### Step 1: Installation
 1. Clone the project repository from GitHub:
-[![Header] git clone <repository_url>
+
+```sh
+git clone <repository_url>
+
+```
 3. Navigate to the project directory
